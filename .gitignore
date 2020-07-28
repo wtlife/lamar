@@ -39,4 +39,5 @@ target
 
 #### log
 *.log
+*.out
 
