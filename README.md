@@ -1,8 +1,6 @@
 
-#### Lets Go
-Lets go, cao!
-
-
 #### Desc
-与cyc的线上项目。
+一个与 [cyc](https://github.com/JetCyC) 的线上项目。
+
+#### Coming soom...
 
